@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527727248920",
+    "firebase_url": "https://asal-a51f4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "asal-a51f4",
+    "storage_bucket": "asal-a51f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527727248920:android:f8868c894e431798dbe56d",
+        "android_client_info": {
+          "package_name": "com.example.asal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527727248920-c1ntbse79tosr4jd1o5vcsv485jli09t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asal",
+            "certificate_hash": "03f6858aee31dcb75bedb3cb77c487712b4b4515"
+          }
+        },
+        {
+          "client_id": "527727248920-2a1bve4etcqtr9v109gaic1s5logjk99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGVcOvzh0OezjPldwW2ksHlJwdt3p2E9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527727248920-2a1bve4etcqtr9v109gaic1s5logjk99.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527727248920-uq8e65na3d7gauahgjklcbo7r4rlc3h5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
